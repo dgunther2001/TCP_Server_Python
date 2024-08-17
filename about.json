@@ -1,0 +1,23 @@
+{
+    "title": "Daniel Gunther's TCP HTTP Server",
+    "description": "Welcome to Daniel Gunther's TCP HTTP Server",
+    "content": [
+        {
+            "type": "heading",
+            "text": "Welcome to Daniel Gunther's TCP HTTP Server IN JSON"
+        },
+        {
+            "type": "paragraph",
+            "text": "Welcome to my very own web server created in Python"
+        },
+        {
+            "type": "paragraph",
+            "text": "Check out my website:"
+        },
+        {
+            "type": "link",
+            "href": "https://danielgunther.com",
+            "text": "danielgunther.com"
+        }
+    ]
+}
